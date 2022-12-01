@@ -4,7 +4,10 @@
 ### Gian Cercena, Caleb Oliveira, Max Perrotto
 
 ## TO-DO:
-- Create position fluctuation function
-- Express this as a probability, relate to position
-- Graphs of position fluctuation ~ position
-- ML models?
+- Regression model (Max)
+- position standardization (Max)
+- distribution of dropout positions (Gian)
+- number of cars at the end of race / distributions (Gian)
+- standardize qualifying lap times (Caleb)
+- position changes ~ qualifying lap times (Caleb)
+- variance of stats by position / confidence bands (Gian)
